@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "546338294852",
+    "firebase_url": "https://bakul-9802e.firebaseio.com",
+    "project_id": "bakul-9802e",
+    "storage_bucket": "bakul-9802e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546338294852:android:03a09f8a01aa1366",
+        "android_client_info": {
+          "package_name": "com.gmail.hadihammurabi.bakul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546338294852-d9r34k54cdbap47p7faokldq8b9a9pp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVF-WeduLTH5_qYT7eQkFMneqseml6UZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546338294852-d9r34k54cdbap47p7faokldq8b9a9pp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
